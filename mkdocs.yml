@@ -26,3 +26,17 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - offline
+  - mkdocs-nav-weight
+  - with-pdf:
+      author: 'Family recipes'
+      copyright: 'None asserted'
+      cover: true
+      cover_title: Cookbook
+      cover_subtitle: Family recipes
+      output_path: pdf/cookbook.pdf
+      render_js: false
+      headless_chrome_path: '/usr/bin/google-chrome'
