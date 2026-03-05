@@ -1,5 +1,0 @@
-# Snack
-
-## Ingredients
-
-## Preparation

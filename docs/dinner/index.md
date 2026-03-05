@@ -1,5 +1,0 @@
-# Dinner
-
-## Ingredients
-
-## Preparation

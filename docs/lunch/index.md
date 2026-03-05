@@ -1,5 +1,0 @@
-# Breakfast
-
-## Ingredients
-
-## Preparation
