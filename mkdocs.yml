@@ -32,11 +32,13 @@ plugins:
   - offline
   - mkdocs-nav-weight
   - with-pdf:
-      author: 'Family recipes'
+      author: "&nbsp;"
       cover: true
+      copyright: "&nbsp;"
       cover_title: Cookbook
       cover_subtitle: Family recipes
       output_path: pdf/cookbook.pdf
+      debug_html: true
       render_js: false
       headless_chrome_path: '/usr/bin/google-chrome'
       custom_template_path: templates
