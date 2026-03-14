@@ -1,13 +1,47 @@
-@media (max-width: 720px) {
-  body {
-    font-size: 16px;
-  }
+@page {
+  size: 375px 667px; /* iPhone SE size - phone-friendly */
+  margin: 15mm 10mm;
+}
 
-  article {
-    padding: 1.2rem 1rem 3rem;
-  }
+body {
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 100%;
+}
 
-  h1 {
-    font-size: 1.5em;
-  }
+article {
+  padding: 0.5rem;
+}
+
+h1 {
+  font-size: 1.4em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+h3 {
+  font-size: 1.1em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+p, ul, ol {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+pre, code {
+  font-size: 12px;
+  word-wrap: break-word;
 }
