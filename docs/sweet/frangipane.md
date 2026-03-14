@@ -14,8 +14,8 @@ Frangipane, a staple of classic French pastry, is a creamy, sweet, almondy filli
 about 1 3/4 cups
 
 Frangipane (Almond Cream)
-Ingredients
 
+## Ingredients
 6 tablespoons (85g) unsalted butter, at room temperature
 1/2 cup (99g) granulated sugar
 1/4 teaspoon table salt
@@ -23,8 +23,8 @@ Ingredients
 3 tablespoons (23g) King Arthur Unbleached All-Purpose Flour or King Arthur Gluten-Free Measure for Measure Flour
 1 large egg, at room temperature
 2 teaspoons almond emulsion or almond extract
-Instructions
 
+## Instructions
 In a medium bowl or the bowl of a stand mixer, beat together the butter, sugar, and salt until pale and fluffy, about 1 minute on medium speed.
 
 Stir in the flours, egg, and almond flavoring. Mix until just combined.
