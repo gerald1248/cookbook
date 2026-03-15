@@ -3,19 +3,29 @@
 ## Ingredients
 
 1 Tbsp neutral oil
+
 250g onions, chopped
+
 1.5 Tbsp garlic, minced
+
 2 Tbsp ginger, minced
 
 650g carrots 1.5cm
+
 350g parsnip (or more carrot)
+
 1l broth, veg or (fake) chicken
 
 2 Tbsp soya sauce / tamari
+
 2 Tbsp vegetarian fish sauce
+
 0.5-1 Tbs sriracha 
+
 50g creamed coconut (optional)
+
 250ml of orange juice
+
 2 Tbsp sugar
 
 ## Method

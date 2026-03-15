@@ -2,13 +2,15 @@
 
 This satisfying lemony bowlful was inspired by the lentil soup served at the now-closed Lebanese restaurant La Shish in West Bloomfield, Michigan. It keeps well but will thicken, so you may want to thin it with a bit of water or broth when reheating. Serve with warm whole-wheat pita.
 
-By Carolyn Malcoun  Updated on September 21, 2025
+<!--By Carolyn Malcoun  Updated on September 21, 2025
 
-Reviewed by Dietitian Breana Lai Killeen, M.P.H., RD
+Reviewed by Dietitian Breana Lai Killeen, M.P.H., RD-->
 
 ## Method
 Active Time: 30 mins
+
 Total Time: 55 mins
+
 Servings: 6 
 
 ## Nutrition Profile

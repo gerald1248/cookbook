@@ -5,18 +5,29 @@ Stove top or slow cooker
 ## Ingredients 
 
 1.5 Tbs olive oil
+
 450g minced (red) onions
+
 6 cloves minced garlic
+
 2 Tbsp thyme
+
 2 Tbsp smoked paprika
+
 2 Tbsp tomato purée
+
 1.5 tsp Dijon mustard 
 
 600g carrots in thick slices
+
 3 cups French lentils (puy / green / brown)
+
 3 cups vegetable or (fake) chicken stock
+
 5 cups water
+
 2 bay leaves
+
 1.5 tsp salt
 
 2 Tbsp lemon juice
