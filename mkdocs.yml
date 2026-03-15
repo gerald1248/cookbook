@@ -54,7 +54,7 @@ plugins:
       cover_title: Cookbook
       cover_subtitle: Family recipes
       output_path: pdf/cookbook.pdf
-      debug_html: true
+      debug_html: false
       render_js: false
       headless_chrome_path: '/usr/bin/google-chrome'
       custom_template_path: templates
