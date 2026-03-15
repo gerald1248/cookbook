@@ -1,6 +1,6 @@
-# Pancakes thin / thick
+# 🥞 Pancakes thin / thick
 
-## Ingredients 
+## 🛒 Ingredients 
 
 210g white flour
 70g wholegrain flour (optional, can be replaced w 80g white flour)
@@ -10,7 +10,7 @@
 60g sugar
 470 / 600ml (soy) milk (thick / thin)
 
-## Method
+## 👨‍🍳 Method
 
 Mix dry ingredients. Add 330ml soy milk and mix, this is it avoid clumps. Add remaining milk (140ml for thick, 270ml for thin). Add vanilla extract and melted butter / oil. Stir carefully. Let batter rest for 5-10 mins. 
 
