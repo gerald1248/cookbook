@@ -58,3 +58,4 @@ plugins:
       render_js: false
       headless_chrome_path: '/usr/bin/google-chrome'
       custom_template_path: templates
+      ordered_chapter_level: 0
